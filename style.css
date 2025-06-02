@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+textarea {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-size: 64px;
+}
+
+#box {
+    outline: 8px solid white;
+    width: 64px;
+    height: 64px;
+    position: absolute;
+    background-color: black;
+    pointer-events: none;
+}
+
+button {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    background-color: black;
+    outline: 8px solid white;
+    border-radius: 32px;
+    color: white;
+}
